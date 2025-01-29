@@ -1,3 +1,3 @@
-# Welcome to Scangov! 👋
+# Welcome to ScanGov! 👋
 
 [Visit our website](https://scangov.org)
