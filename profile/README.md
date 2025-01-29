@@ -2,4 +2,4 @@
 
 Government digital experience monitor
 
-[Visit our website](https://scangov.org)
+[Visit our website](https://scangov.org) 🔗
